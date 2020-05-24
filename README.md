@@ -1,0 +1,2 @@
+# myfirstGit
+wode diyige 
